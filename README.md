@@ -1,5 +1,20 @@
-#1 mod init
-go mod init github.com/yourusername/myproject
+# Readme
+# intro 
+  Hi Im Backend Developer
 
-#2 Create Folder
-#mkdir controllers database initializer middleware migrations models routes
+# First
+
+instal your go in local computer, and then
+
+touch main.go && .env
+
+```bash
+go mod init github.com/yourusername/myproject
+```
+
+## Create Folder
+```bash
+mkdir controllers database initializer middleware migrations models routes
+```
+
+
